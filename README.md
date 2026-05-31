@@ -96,7 +96,7 @@ This repository serves as a public showcase of the product and does not contain 
 
 ---
 
-### Pricing & Subscription Management
+### Pricing & Credit Management
 
 ![Pricing](pricing.png)
 
